@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\PhamTuanHung\PhamTuanHung\bin\Debug\net6.0\PhamTuanHung.exe
+C:\Users\Admin\Desktop\PhamTuanHung\PhamTuanHung\bin\Debug\net6.0\PhamTuanHung.deps.json
+C:\Users\Admin\Desktop\PhamTuanHung\PhamTuanHung\bin\Debug\net6.0\PhamTuanHung.runtimeconfig.json
+C:\Users\Admin\Desktop\PhamTuanHung\PhamTuanHung\bin\Debug\net6.0\PhamTuanHung.dll
+C:\Users\Admin\Desktop\PhamTuanHung\PhamTuanHung\bin\Debug\net6.0\PhamTuanHung.pdb
+C:\Users\Admin\Desktop\PhamTuanHung\PhamTuanHung\obj\Debug\net6.0\PhamTuanHung.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PhamTuanHung\PhamTuanHung\obj\Debug\net6.0\PhamTuanHung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\PhamTuanHung\PhamTuanHung\obj\Debug\net6.0\PhamTuanHung.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\PhamTuanHung\PhamTuanHung\obj\Debug\net6.0\PhamTuanHung.AssemblyInfo.cs
+C:\Users\Admin\Desktop\PhamTuanHung\PhamTuanHung\obj\Debug\net6.0\PhamTuanHung.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PhamTuanHung\PhamTuanHung\obj\Debug\net6.0\PhamTuanHung.dll
+C:\Users\Admin\Desktop\PhamTuanHung\PhamTuanHung\obj\Debug\net6.0\refint\PhamTuanHung.dll
+C:\Users\Admin\Desktop\PhamTuanHung\PhamTuanHung\obj\Debug\net6.0\PhamTuanHung.pdb
+C:\Users\Admin\Desktop\PhamTuanHung\PhamTuanHung\obj\Debug\net6.0\PhamTuanHung.genruntimeconfig.cache
+C:\Users\Admin\Desktop\PhamTuanHung\PhamTuanHung\obj\Debug\net6.0\ref\PhamTuanHung.dll
