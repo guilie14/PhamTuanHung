@@ -108,7 +108,7 @@ namespace Test
                             Console.Write("Input Name: ");
                             string s = Console.ReadLine();
 
-                            var student3 = listOfStudent.Where(x => x.Value.StudName == s).FirstOrDefault();
+                            var student3 = listOfStudent.Where(x => x.Value.StudName.Contains(s)).FirstOrDefault();
                             if (student3.Value == null)
                             {
                                 Console.WriteLine("Student is not exist!");
@@ -124,7 +124,7 @@ namespace Test
                             Console.Write("Input Class: ");
                             string d = Console.ReadLine();
 
-                            var student4 = listOfStudent.Where(x => x.Value.StudClass == d).FirstOrDefault();
+                            var student4 = listOfStudent.Where(x => x.Value.StudClass.Contains(d)).FirstOrDefault();
                             if (student4.Value == null)
                             {
                                 Console.WriteLine("Student is not exist!");
@@ -134,7 +134,7 @@ namespace Test
                             Console.WriteLine("Find success!");
                             foreach (KeyValuePair<int,Student> item in listOfStudent)
                             {
-                                if (item.Value.StudClass == d)
+                                if (item.Value.StudClass.Contains(d))
                                 {
                                     list.Add(item.Value);
                                 }

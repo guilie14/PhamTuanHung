@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\darkk\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\PhamTuanHung\\PhamTuanHung\\PhamTuanHung.csproj",
+      "projectUniqueName": "D:\\Github\\PhamTuanHung\\PhamTuanHung\\PhamTuanHung\\PhamTuanHung.csproj",
       "projectName": "PhamTuanHung",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\PhamTuanHung\\PhamTuanHung\\PhamTuanHung.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\PhamTuanHung\\PhamTuanHung\\obj\\",
+      "projectPath": "D:\\Github\\PhamTuanHung\\PhamTuanHung\\PhamTuanHung\\PhamTuanHung.csproj",
+      "packagesPath": "C:\\Users\\darkk\\.nuget\\packages\\",
+      "outputPath": "D:\\Github\\PhamTuanHung\\PhamTuanHung\\PhamTuanHung\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\darkk\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
